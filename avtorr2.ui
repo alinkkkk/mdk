@@ -285,6 +285,19 @@
      <string>Изменить данные</string>
     </property>
    </widget>
+   <widget class="QLabel" name="label_error">
+    <property name="geometry">
+     <rect>
+      <x>290</x>
+      <y>330</y>
+      <width>131</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string/>
+    </property>
+   </widget>
   </widget>
   <widget class="QMenuBar" name="menubar">
    <property name="geometry">
@@ -292,7 +305,7 @@
      <x>0</x>
      <y>0</y>
      <width>629</width>
-     <height>21</height>
+     <height>26</height>
     </rect>
    </property>
   </widget>

@@ -139,7 +139,7 @@ class Ui_MainWindow1(object):
         self.pushButton_regr.setObjectName("pushButton_regr")
         MainWindow1.setCentralWidget(self.centralwidget)
         self.menubar = QtWidgets.QMenuBar(parent=MainWindow1)
-        self.menubar.setGeometry(QtCore.QRect(0, 0, 725, 21))
+        self.menubar.setGeometry(QtCore.QRect(0, 0, 725, 26))
         self.menubar.setObjectName("menubar")
         MainWindow1.setMenuBar(self.menubar)
         self.statusbar = QtWidgets.QStatusBar(parent=MainWindow1)
